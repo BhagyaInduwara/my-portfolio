@@ -32,7 +32,7 @@ export default function Navbar() {
           
           {/* Logo */}
           <Link href="/" className="font-mono text-lg font-bold tracking-tight hover:text-primary transition-colors">
-            yourname.dev
+            bhagya.dev
           </Link>
 
           {/* Desktop nav */}

@@ -26,7 +26,7 @@ export default function Hero() {
           transition={{ duration: 0.5, delay: 0.1 }}
           className="text-5xl sm:text-7xl font-bold tracking-tight"
         >
-          Your Name
+          Bhagya Induwara
         </motion.h1>
 
         <motion.h2

@@ -34,7 +34,7 @@ export default function Footer() {
 
           {/* Left */}
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Your Name. Built with Next.js & Tailwind.
+            © {new Date().getFullYear()} Bhagya Induwara. Built with Next.js & Tailwind.
           </p>
 
           {/* Social links */}
